@@ -66,7 +66,7 @@ The project also includes additional features for bonus functionality:
 
 Contributing
 Feel free to fork the repository and submit pull requests with improvements or bug fixes.
-Please ensure your code adheres to the project's coding style and includes appropriate tests.
+Please ensure your code adheres to the projects coding style and includes appropriate tests.
 
 License
 
