@@ -65,7 +65,9 @@ The project also includes additional features for bonus functionality:
     Wildcard support
 
 Contributing
-Feel free to fork the repository and submit pull requests with improvements or bug fixes. Please ensure your code adheres to the project's coding style and includes appropriate tests.
+Feel free to fork the repository and submit pull requests with improvements or bug fixes.
+Please ensure your code adheres to the project's coding style and includes appropriate tests.
+
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
