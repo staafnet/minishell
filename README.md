@@ -10,7 +10,6 @@ minishell/
 ├── includes/
 │ ├── minishell.h
 │ └── minishell_bonus.h
-│
 ├── src/
 │ ├── builtins/
 │ │ ├── cd.c
@@ -29,15 +28,12 @@ minishell/
 │ ├── signals/
 │ │ └── handle_signals.c
 │ └── main.c
-│
 ├── bonus/
 │ ├── and.c
 │ ├── or.c
 │ └── wildcards.c
-│
 ├── utils/
 │ └── utils.c
-│
 ├── Makefile
 └── README.md
 ```
