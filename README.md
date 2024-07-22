@@ -5,7 +5,7 @@ Minishell is a simple shell implementation in C designed to mimic basic shell fu
 ## Project Structure
 
 The project is organized into the following directories and files:
-
+```bash
 minishell/
 ├── includes/
 │ ├── minishell.h
@@ -36,7 +36,7 @@ minishell/
 │ └── utils.c
 ├── Makefile
 └── README.md
-
+```
 ## Building the Project
 
 To build the project, run the following command in the root directory:
